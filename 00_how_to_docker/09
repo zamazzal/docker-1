@@ -1,0 +1,3 @@
+apt update
+apt -y upgrade
+apt install -y gcc git vim
